@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/js/packages/kotlin-chrome-extension-starter/kotlin/
+.idea
+/gradle/

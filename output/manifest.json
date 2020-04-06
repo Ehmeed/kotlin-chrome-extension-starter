@@ -1,0 +1,13 @@
+{
+    "name": "Kotlin Chrome Extension Starter",
+    "version": "1.0",
+    "description": "Contains basic code for writing chrome extension with kotlin",
+    "background": {
+        "scripts": ["kotlin-chrome-extension-starter.js"],
+        "persistent": false
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "manifest_version": 2
+}
